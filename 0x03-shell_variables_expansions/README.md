@@ -1,1 +1,1 @@
-shell_variables_expansions
+Global variables
