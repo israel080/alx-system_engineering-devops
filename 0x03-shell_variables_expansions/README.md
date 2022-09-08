@@ -1,1 +1,1 @@
-wc -1
+shell_variables_expansions
